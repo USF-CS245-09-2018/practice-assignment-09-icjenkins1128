@@ -105,7 +105,7 @@ public class BinaryHeap {
 
                 swap(arr, parentIndex, nodeIndex);
 
-                shiftUp(parentIndex);                           //Move up the tree
+                shiftUp(parentIndex);                           
             
             }
         }
